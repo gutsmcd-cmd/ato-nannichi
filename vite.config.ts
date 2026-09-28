@@ -8,7 +8,7 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['icons/*.png'],
       manifest: {
-        id: './',
+        id: '/ato-nannichi/',
         name: 'あと何日',
         short_name: 'あと何日',
         description: '旅行・誕生日・記念日までのカウントダウン／経過日数。無料・広告なし・ログイン不要・オフライン。',
