@@ -83,7 +83,7 @@ const ja: Dict = {
 };
 
 const en: Dict = {
-  appTitle: 'Days Until',
+  appTitle: 'Days Left',
   appSub: 'Count down to the days that matter',
   add: 'Add',
   addEvent: 'New event',
